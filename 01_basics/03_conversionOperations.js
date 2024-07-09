@@ -30,7 +30,7 @@ let gameCounter = 100
 gameCounter++;
 // ++gameCounter;
 
-// upar dono m hi value bhadegi chahe Prefix ho ya Postfix but har jagah esa nhi hoga 
+// upar dono m hi value bhadegi chahe Prefix ho ya Postfix but har jagah esa Nhi hoga 
 
 console.log(gameCounter);
 
